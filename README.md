@@ -12,3 +12,12 @@
 - hit the up arrow in bash shell is used to get the previous executed command.
 - "-n" flag is used to sort by numeric value
 - "-r" flag is used to sort the data in reverse order
+- One dash is used for single letter flag
+- Two dashes for one letter flag
+
+## Important Bash Commands
+- ls for list of commands
+- cat for display the content
+- Command > for bash redirect
+- Command >> for bash redirect and append
+

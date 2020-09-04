@@ -21,3 +21,5 @@
 - Command > for bash redirect
 - Command >> for bash redirect and append
 
+## A & B Results
+I have used "tr ' ' '\12' < A.txt" and "tr ' ' '\12' < B.txt" commands to get the words from A and B files. A has positive messages and B has negative messages.
